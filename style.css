@@ -1,0 +1,12 @@
+body {
+    background-color: gray;
+
+}
+.block {
+    border: solid black;
+    background-color: blanchedalmond;
+    margin: 100px;
+    padding: 100px;
+    top: 50px;
+    left: 20px;
+}
