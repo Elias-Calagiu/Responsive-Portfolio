@@ -21,3 +21,8 @@ main   {
     width: 33.3%;
     height: auto;
 }
+
+h1 {
+    padding: 10px;
+    top: 0%;
+}
