@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(167, 13, 13);
+
+}
+.block {
+    border: solid black;
+    background-color: blanchedalmond;
+    margin: 100px;
+    padding: 100px;
+    top: 50px;
+    left: 20px;
+    width: 33.3%;
+}
+.header {
+    padding: 20px;
+}
+.sr-only {
+    font-weight: 200;
+}
+main   {
+    width: 33.3%;
+    height: auto;
+}
