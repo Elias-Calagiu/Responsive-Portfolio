@@ -13,10 +13,6 @@ body {
 .header {
     padding: 20px;
 }
-.sr-only {
-    font-weight: 200;
-}
-
 section {
     padding: 20px;
     margin: 20px;
