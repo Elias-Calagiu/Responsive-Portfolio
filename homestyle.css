@@ -1,8 +1,5 @@
 body {
-    background-image: url("https://placekitten.com/200/300");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    position: relative;
+   
 }
 
 nav {
@@ -14,6 +11,15 @@ h1 {
     margin-top: 5%;
     margin-left: 1.5%;
     border-bottom: solid lightgray 5px;
+}
+
+.block {
+    border: solid black;
+    background-color: blanchedalmond;
+    margin: 100px;
+    padding: 50px;
+    top: 50px;
+    left: 20px;
 }
 
 section {
