@@ -2,6 +2,10 @@ body {
     background-color: rgb(167, 13, 13);
 
 }
+
+h1 {
+    color: blue;
+}
 .block {
     border: solid black;
     background-color: blanchedalmond;
@@ -20,4 +24,8 @@ body {
 main   {
     width: 33.3%;
     height: auto;
+}
+
+img {
+    padding: 10px;
 }
